@@ -1,0 +1,9 @@
+﻿
+
+function TestJSFunction(obj) {
+
+    var txtInput = obj;
+
+    //var txtTest = document.getElementById('<%=txtInput.ClientID%>');
+    return txtTest;
+}

@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Premium_BLL", "Premium_BLL\Premium_BLL.csproj", "{42A8196D-662D-4DA9-978C-AAA36418F004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Premium_DAL", "Premium_DAL\Premium_DAL.csproj", "{D28D192A-8EDA-417D-B1BF-E809D7BDD63A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessObjects", "BusinessObjects\BusinessObjects.csproj", "{4AFDD58F-322C-4C89-BD2D-086E80D7D9F1}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Premium_UI", "http://localhost:60624", "{D8D58576-9245-4443-9011-36500AB7DFCD}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{4afdd58f-322c-4c89-bd2d-086e80d7d9f1}|BusinessObjects.dll;{42a8196d-662d-4da9-978c-aaa36418f004}|Premium_BLL.dll;{D28D192A-8EDA-417D-B1BF-E809D7BDD63A}|Premium_DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60624"
+		Debug.AspNetCompiler.PhysicalPath = "Premium_UI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60624\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60624"
+		Release.AspNetCompiler.PhysicalPath = "Premium_UI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60624\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "Premium_UI\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42A8196D-662D-4DA9-978C-AAA36418F004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42A8196D-662D-4DA9-978C-AAA36418F004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42A8196D-662D-4DA9-978C-AAA36418F004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42A8196D-662D-4DA9-978C-AAA36418F004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28D192A-8EDA-417D-B1BF-E809D7BDD63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28D192A-8EDA-417D-B1BF-E809D7BDD63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28D192A-8EDA-417D-B1BF-E809D7BDD63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28D192A-8EDA-417D-B1BF-E809D7BDD63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AFDD58F-322C-4C89-BD2D-086E80D7D9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AFDD58F-322C-4C89-BD2D-086E80D7D9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AFDD58F-322C-4C89-BD2D-086E80D7D9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AFDD58F-322C-4C89-BD2D-086E80D7D9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D58576-9245-4443-9011-36500AB7DFCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D58576-9245-4443-9011-36500AB7DFCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D58576-9245-4443-9011-36500AB7DFCD}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D58576-9245-4443-9011-36500AB7DFCD}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

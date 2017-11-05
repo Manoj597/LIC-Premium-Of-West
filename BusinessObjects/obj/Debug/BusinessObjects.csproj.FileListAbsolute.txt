@@ -1,0 +1,10 @@
+C:\Users\734829\Desktop\LIC_Premium\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\734829\Desktop\LIC_Premium\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\734829\Desktop\LIC_Premium\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\734829\Desktop\LIC_Premium\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\734829\Desktop\LIC_Premium\BusinessObjects\obj\Debug\BusinessObjects.pdb
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\BusinessObjects\bin\Debug\BusinessObjects.dll
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\BusinessObjects\bin\Debug\BusinessObjects.pdb
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\BusinessObjects\obj\Debug\BusinessObjects.dll
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\BusinessObjects\obj\Debug\BusinessObjects.pdb

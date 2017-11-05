@@ -1,0 +1,17 @@
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\bin\Debug\Premium_BLL.dll
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\bin\Debug\Premium_BLL.pdb
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\bin\Debug\BusinessObjects.dll
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\bin\Debug\Premium_DAL.dll
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\bin\Debug\BusinessObjects.pdb
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\obj\Debug\Premium_BLL.csprojResolveAssemblyReference.cache
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\obj\Debug\Premium_BLL.dll
+C:\Users\734829\Desktop\LIC_Premium\Premium_BLL\obj\Debug\Premium_BLL.pdb
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\bin\Debug\Premium_BLL.dll
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\bin\Debug\Premium_BLL.pdb
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\bin\Debug\BusinessObjects.dll
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\bin\Debug\Premium_DAL.dll
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\bin\Debug\BusinessObjects.pdb
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\bin\Debug\Premium_DAL.pdb
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\obj\Debug\Premium_BLL.csprojResolveAssemblyReference.cache
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\obj\Debug\Premium_BLL.dll
+C:\Users\759005\Desktop\LIC_Premium\LIC_Premium\Premium_BLL\obj\Debug\Premium_BLL.pdb
